@@ -65,7 +65,7 @@ const HeroSection = () => {
                 style={{ animationDelay: "0.6s" }}
               >
                 <a
-                  href="https://linkedin.com/in/hasibullah-naeim"
+                  href="https://www.linkedin.com/in/hasibullah-naeim-091902342/"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="p-3 rounded-full bg-secondary text-muted-foreground hover:bg-primary hover:text-primary-foreground transition-all duration-300"
@@ -73,7 +73,7 @@ const HeroSection = () => {
                   <Linkedin size={20} />
                 </a>
                 <a
-                  href="https://github.com/hasibullah-naeim"
+                  href="https://github.com/HasibullahNaeim"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="p-3 rounded-full bg-secondary text-muted-foreground hover:bg-primary hover:text-primary-foreground transition-all duration-300"
