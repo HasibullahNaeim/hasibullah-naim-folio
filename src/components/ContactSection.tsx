@@ -30,12 +30,12 @@ const socialLinks = [
   {
     icon: Linkedin,
     label: "LinkedIn",
-    href: "https://linkedin.com/in/hasibullah-naeim",
+    href: "https://www.linkedin.com/in/hasibullah-naeim-091902342/",
   },
   {
     icon: Github,
     label: "GitHub",
-    href: "https://github.com/hasibullah-naeim",
+    href: "https://github.com/HasibullahNaeim",
   },
 ];
 
